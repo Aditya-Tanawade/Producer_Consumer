@@ -1,10 +1,10 @@
 # Producer_Consumer
 
-<H2> Problem<H2> 
+<H2> Problem</H2>
 To make sure that the producer won’t try to add data into the buffer if it’s full and that the consumer won’t try to remove data from an empty buffer.
 
 
-Implementation of Producer Consumer Class 
+<H2>Implementation of Producer Consumer Class </H2>
 
 A LinkedList list – to store list of jobs in queue.
 A Variable Capacity – to check for if the list is full or not
